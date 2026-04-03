@@ -1,0 +1,8 @@
+python-telegram-bot==22.7
+requests
+beautifulsoup4
+lxml
+python-dotenv
+google-generativeai
+langchain-google-genai
+
